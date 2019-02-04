@@ -21,6 +21,8 @@ Email: [cjf96@uw.edu](mailto:cjf96@uw.edu)
 
 Email: [weswei@uw.edu](mailto:weswei@uw.edu)
 
+My name is Wesley Wei and I am currently a Senior studying Informatics at the University of Washington. I am interested in how information shapes our world especially in the technology world. My role on this team is to serve as a developer. In my free time, I enjoy playing the violin and playing table tennis.
+
 
 ![](emily.png)
 ### Emily Ye
