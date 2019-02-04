@@ -30,6 +30,7 @@ My name is Wesley Wei and I am currently a Senior studying Informatics at the Un
 
 Email: [emilyye@uw.edu](mailto:emilyye@uw.edu)
 
+![Microsoft Logo](MS.png)
 ### Microsoft Research
 Our project's sponsor, Microsoft Research, is helping us with valuable expertise, mentorship, and access to hardware.
 
