@@ -30,6 +30,8 @@ My name is Wesley Wei and I am currently a Senior studying Informatics at the Un
 
 Email: [emilyye@uw.edu](mailto:emilyye@uw.edu)
 
+I am a senior Informatics student with tracks on data science and cybersecurity. I enjoy learning about different aspects of technology, in order to be able to bring people and technology together in better ways. I have a great passion for music and piano, so I wish to share that passion and joy with more people through this project!
+
 ![Microsoft Logo](MS.png)
 ### Microsoft Research
 Our project's sponsor, Microsoft Research, is helping us with valuable expertise, mentorship, and access to hardware.
