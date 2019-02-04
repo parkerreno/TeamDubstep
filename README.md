@@ -4,19 +4,25 @@ Our project aims to enable people with limited mobility, specifically people liv
 
 ## Who We Are
 
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![](parker.png)
 ### Parker Ciambrone
 
 Email: [parkreno@uw.edu](mailto:parkreno@uw.edu)
 
+
+![](cole.png)
 ### Cole French
 
 Email: [cjf96@uw.edu](mailto:cjf96@uw.edu)
 
+
+![](wesley.png)
 ### Wesley Wei
 
 Email: [weswei@uw.edu](mailto:weswei@uw.edu)
 
+
+![](emily.png)
 ### Emily Ye
 
 Email: [emilyye@uw.edu](mailto:emilyye@uw.edu)
