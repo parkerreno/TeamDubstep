@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# The Hands-Free Music Project
 
-You can use the [editor on GitHub](https://github.com/parkerreno/TeamDubstep/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our project aims to enable people with limited mobility, specifically people living with ALS, to be able to create music.  We want people who only have the use of their eyes to create music in real-time so that they have more ways to express themselves artistically.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Who We Are
 
-### Markdown
+### Parker Ciambrone
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cole French
 
-```markdown
-Syntax highlighted code block
+### Wesley Wei
 
-# Header 1
-## Header 2
-### Header 3
+### Emily Ye
 
-- Bulleted
-- List
+### Microsoft Research
 
-1. Numbered
-2. List
+### The University of Washington iSchool
 
-**Bold** and _Italic_ and `Code` text
+## Support or Contact
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parkerreno/TeamDubstep/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
