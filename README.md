@@ -6,6 +6,7 @@ Our project aims to enable people with limited mobility, specifically people liv
 
 ![](parker.png)
 ### Parker Ciambrone
+I am senior in the Informatics program with focuses on Information Architecture and Data Science.  I am interested in developing applications that create new, useful experiences for people.  When I'm not coding, I enjoy listening to music, hiking, and photography.
 
 Email: [parkreno@uw.edu](mailto:parkreno@uw.edu)
 
