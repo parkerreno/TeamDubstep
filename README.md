@@ -16,13 +16,15 @@ Email: [parkreno@uw.edu](mailto:parkreno@uw.edu)
 
 Email: [cjf96@uw.edu](mailto:cjf96@uw.edu)
 
+I'm an Informatics senior on the Data Science track. Before I began pursuing a career in tech, I had a passion for teaching and learning sciences – or studying how we learn. I soon realized how technology can often not work for students in the classroom, and so I switched majors to work on improving accessibility and user experience for all. I look forward to seeing where this project goes and how it can impact the growing realm of music tech!
+
 
 ![](wesley.png)
 ### Wesley Wei
 
 Email: [weswei@uw.edu](mailto:weswei@uw.edu)
 
-My name is Wesley Wei and I am currently a Senior studying Informatics at the University of Washington. I am interested in how information shapes our world especially in the technology world. My role on this team is to serve as a developer. In my free time, I enjoy playing the violin and playing table tennis.
+I am currently a Senior studying Informatics at the University of Washington. I am interested in how information shapes our world especially in the technology world. My role on this team is to serve as a developer. In my free time, I enjoy playing the violin and playing table tennis.
 
 
 ![](emily.png)
