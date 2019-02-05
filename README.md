@@ -42,4 +42,4 @@ This project is part of the iSchool's yearly Capstone.
 
 ## Contact
 
-We would love to hear from people who have expertise in our space or want to test out our prototypes!  Email us at <alias>@u.washington.edu.
+We would love to hear from people who have expertise in our space or want to test out our prototypes!  Email us at [dubstep@uw.edu](mailto:dubstep@uw.edu).
