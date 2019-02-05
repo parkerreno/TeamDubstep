@@ -21,17 +21,16 @@ Email: [cjf96@uw.edu](mailto:cjf96@uw.edu)
 ![](wesley.png)
 ### Wesley Wei
 
-Email: [weswei@uw.edu](mailto:weswei@uw.edu)
-
 I am currently a Senior studying Informatics at the University of Washington. I am interested in how information shapes our world especially in the technology world. My role on this team is to serve as a developer. In my free time, I enjoy playing the violin and playing table tennis.
 
+Email: [weswei@uw.edu](mailto:weswei@uw.edu)
 
 ![](emily.png)
 ### Emily Ye
 
-Email: [emilyye@uw.edu](mailto:emilyye@uw.edu)
-
 I am a senior Informatics student with tracks on data science and cybersecurity. I enjoy learning about different aspects of technology, in order to be able to bring people and technology together in better ways. I have a great passion for music and piano, so I wish to share that passion and joy with more people through this project!
+
+Email: [emilyye@uw.edu](mailto:emilyye@uw.edu)
 
 ![Microsoft Logo](MS.png)
 ### Microsoft Research
